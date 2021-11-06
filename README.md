@@ -11,6 +11,5 @@ all work AI and ML
 ### ★Telecom-Churn 
 ##### => Analysis of customer data for a telecom co. to predict which customers are likely to churn and what factors lead to the churn
 
-******** For A Live ML App please see https://github.com/Dharvi/iris_sub_specie_detection_ai **********
 
 
