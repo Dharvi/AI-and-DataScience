@@ -2,6 +2,8 @@
 all work AI and ML
 ## This Repository is dedicated to all the Data Science and ML case studies which I have done.
 ## It contains various branches with each consisting of a case study :
+### ★RASA Chatbot
+##### => Creating a chatbot with RASA for finding Restaurants
 ### ★Car Price 
 ##### => Analysis of factors that can help in predicting the car price better
 ### ★Loan-Default 
